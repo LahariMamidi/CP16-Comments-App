@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CP16-Comments-App/static/css/main.241ed701.css",
+    "main.js": "/CP16-Comments-App/static/js/main.ee8f8214.js",
+    "static/js/453.c1c063e8.chunk.js": "/CP16-Comments-App/static/js/453.c1c063e8.chunk.js",
+    "index.html": "/CP16-Comments-App/index.html",
+    "main.241ed701.css.map": "/CP16-Comments-App/static/css/main.241ed701.css.map",
+    "main.ee8f8214.js.map": "/CP16-Comments-App/static/js/main.ee8f8214.js.map",
+    "453.c1c063e8.chunk.js.map": "/CP16-Comments-App/static/js/453.c1c063e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241ed701.css",
+    "static/js/main.ee8f8214.js"
+  ]
+}
